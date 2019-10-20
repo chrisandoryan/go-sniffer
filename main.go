@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/chrisandoryango-sniffer/core"
+	"github.com/chrisandoryan/go-sniffer/core"
 )
 
 func main() {
